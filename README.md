@@ -107,9 +107,6 @@ Everything in the notebook is structured and ready to execute.
 
 **Data Analyst | SQL | Python | Power BI | Machine Learning**
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/surbhi-jain](https://www.linkedin.com/in/jainsurbhi123/)  
-📧 **Email:** *2001jainsurabhi@gmail.com*
-
 ---
 
 ## ⭐ If you found this project helpful, please give it a star!
