@@ -4,7 +4,7 @@ Author: **Surbhi Jain**
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project predicts the **probability that a candidate will join a company after accepting the job offer**.  
 It enables HR teams to:
@@ -20,23 +20,23 @@ The model outputs both:
 
 ---
 
-## 🚀 Key Features of This Project
+##  Key Features of This Project
 
-### **✔ End-to-End Data Pipeline**
+### ** End-to-End Data Pipeline**
 - Data cleaning  
 - Encoding  
 - Feature engineering  
 - Handling missing values  
 
-### **✔ Exploratory Data Analysis (EDA)**
+### ** Exploratory Data Analysis (EDA)**
 - Distribution analysis  
 - Countplots  
 - Correlation heatmaps  
 
-### **✔ Class Imbalance Handling**
+### ** Class Imbalance Handling**
 - Used **SMOTE** to balance “Joined vs Not Joined”
 
-### **✔ Feature Selection (RFECV)**
+### ** Feature Selection (RFECV)**
 Selected **33 high-impact features** including:
 - Notice period  
 - Percent hike expected / offered  
@@ -45,16 +45,16 @@ Selected **33 high-impact features** including:
 - Offered band  
 - Gender, age, relocation, etc.
 
-### **✔ Logistic Regression Modeling**
+### ** Logistic Regression Modeling**
 Built two models:
 1. **Model 1:** All features  
 2. **Model 2:** Selected RFECV features (better performance)
 
-### **✔ Threshold Optimization (MLE)**
+### ** Threshold Optimization (MLE)**
 Identified the best cutoff probability:
-### ⭐ **Final Cut-Off = 0.59596**
+###  **Final Cut-Off = 0.59596**
 
-### **✔ Evaluation Metrics**
+### ** Evaluation Metrics**
 - Accuracy  
 - Sensitivity  
 - Specificity  
@@ -63,7 +63,7 @@ Identified the best cutoff probability:
 
 ---
 
-## 📊 Summary of Results
+##  Summary of Results
 
 | Metric | Score |
 |--------|--------|
@@ -77,7 +77,7 @@ The model performs reliably and provides interpretable joining predictions for H
 
 ---
 
-## 📄 Questions Solved (Q1–Q6)
+##  Questions Solved (Q1–Q6)
 
 This notebook includes complete explanations and code for:
 
@@ -90,7 +90,7 @@ This notebook includes complete explanations and code for:
 
 ---
 
-## ▶ How to Run This Project
+##  How to Run This Project
 
 1. Clone the repo  
 2. Install dependencies using `pip install -r requirements.txt`  
@@ -101,7 +101,7 @@ Everything in the notebook is structured and ready to execute.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 ### **Surbhi Jain**
 
